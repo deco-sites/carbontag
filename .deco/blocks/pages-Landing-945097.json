@@ -7,19 +7,7 @@
       "__resolveType": "hero"
     },
     {
-      "__resolveType": "site/sections/Logos.tsx",
-      "title": "Follow the path of trusted brands",
-      "logos": [
-        {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/carbontag/2c5de76e-b69d-479d-bcd6-c7b0a50e024b/king's-college-london-logo.png",
-          "altText": "King's College London Logo",
-          "width": 200,
-          "height": 200
-        },
-        {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/carbontag/be698cf9-b2ea-4aef-b515-a436a5cf2b42/harvard-innovation-lab-96974c96-6e10-49ed-a25e-4328bab77dc-resize-750-4065601363.png"
-        }
-      ]
+      "__resolveType": "logos-carrousel"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",

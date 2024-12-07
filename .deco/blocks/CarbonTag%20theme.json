@@ -15,8 +15,8 @@
     "--tab-radius": "0.5rem"
   },
   "mainColors": {
-    "base-100": "#000000",
-    "primary": "#FFFFFF",
+    "base-100": "#FFFFFF",
+    "primary": "#000000",
     "secondary": "#36ABCE",
     "tertiary": "#40D19A",
     "neutral": "#45DACB",
