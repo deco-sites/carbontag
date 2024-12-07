@@ -1,10 +1,31 @@
 {
   "__resolveType": "site/sections/Header.tsx",
   "navigation": {
-    "links": [],
-    "buttons": []
+    "links": [
+      {
+        "label": "Our solution"
+      },
+      {
+        "label": "About us"
+      },
+      {
+        "label": "Pricing"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Log in",
+        "href": "Log in",
+        "outline": true
+      },
+      {
+        "text": "Sign up",
+        "href": "Sign up"
+      }
+    ]
   },
   "logo": {
-    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10755/d09d1163-31f5-456a-ac36-fc01c48aa719"
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10755/d09d1163-31f5-456a-ac36-fc01c48aa719",
+    "alt": "Check"
   }
 }
