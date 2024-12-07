@@ -1,1 +1,7 @@
-{"__resolveType":"site/sections/Hero.tsx"}
+{
+  "__resolveType": "site/sections/Hero.tsx",
+  "title": "<h1>Stand out with <strong><span style=\"color: rgb(113, 178, 179)\">product carbon footprints</span></strong>.</h1>",
+  "placement": "left",
+  "cta": [],
+  "description": "Meet the rising demand for transparency in the food & beverage industry with our product emissions platform. Start selling more while reducing emissions."
+}
